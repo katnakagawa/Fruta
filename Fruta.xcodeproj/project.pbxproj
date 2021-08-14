@@ -11,6 +11,24 @@
 		3E4881C826C4DA46007F6990 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4881C726C4DA46007F6990 /* ContentView.swift */; };
 		3E4881CA26C4DA48007F6990 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E4881C926C4DA48007F6990 /* Assets.xcassets */; };
 		3E4881CD26C4DA48007F6990 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E4881CC26C4DA48007F6990 /* Preview Assets.xcassets */; };
+		3E4B465E26C4DFD400604B06 /* AppTabNavigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B465D26C4DFD400604B06 /* AppTabNavigation.swift */; };
+		3E4B466526C4F33C00604B06 /* SmoothieMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B466426C4F33C00604B06 /* SmoothieMenu.swift */; };
+		3E4B466726C4F37900604B06 /* Smoothie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B466626C4F37900604B06 /* Smoothie.swift */; };
+		3E4B466E26C4F74F00604B06 /* MeasuredIngredient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B466D26C4F74F00604B06 /* MeasuredIngredient.swift */; };
+		3E4B467126C4F8DC00604B06 /* Ingredient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B467026C4F8DC00604B06 /* Ingredient.swift */; };
+		3E4B467326C4F99100604B06 /* Ingredient+SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B467226C4F99100604B06 /* Ingredient+SwiftUI.swift */; };
+		3E4B467626C504AB00604B06 /* NutritionFact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B467526C504AB00604B06 /* NutritionFact.swift */; };
+		3E4B467826C5052700604B06 /* NutritionFact+Energy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B467726C5052700604B06 /* NutritionFact+Energy.swift */; };
+		3E4B467A26C5064000604B06 /* NutritionFact+Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B467926C5064000604B06 /* NutritionFact+Decodable.swift */; };
+		3E4B467C26C506A800604B06 /* DisplayableMeasurement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B467B26C506A800604B06 /* DisplayableMeasurement.swift */; };
+		3E4B467E26C506D900604B06 /* UnitIcons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B467D26C506D900604B06 /* UnitIcons.swift */; };
+		3E4B468026C5073500604B06 /* Ingredient+NutritionFacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B467F26C5073500604B06 /* Ingredient+NutritionFacts.swift */; };
+		3E4B468226C7729B00604B06 /* SmoothieList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B468126C7729B00604B06 /* SmoothieList.swift */; };
+		3E4B468526C78BE800604B06 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B468426C78BE800604B06 /* Model.swift */; };
+		3E4B468726C78C5300604B06 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B468626C78C5300604B06 /* Order.swift */; };
+		3E4B468926C78E7E00604B06 /* Account.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B468826C78E7E00604B06 /* Account.swift */; };
+		3E4B468B26C799F700604B06 /* SmoothieRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B468A26C799F700604B06 /* SmoothieRow.swift */; };
+		3E4B468D26C79C9B00604B06 /* Smoothie+SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4B468C26C79C9B00604B06 /* Smoothie+SwiftUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +37,24 @@
 		3E4881C726C4DA46007F6990 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3E4881C926C4DA48007F6990 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E4881CC26C4DA48007F6990 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3E4B465D26C4DFD400604B06 /* AppTabNavigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTabNavigation.swift; sourceTree = "<group>"; };
+		3E4B466426C4F33C00604B06 /* SmoothieMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmoothieMenu.swift; sourceTree = "<group>"; };
+		3E4B466626C4F37900604B06 /* Smoothie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Smoothie.swift; sourceTree = "<group>"; };
+		3E4B466D26C4F74F00604B06 /* MeasuredIngredient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeasuredIngredient.swift; sourceTree = "<group>"; };
+		3E4B467026C4F8DC00604B06 /* Ingredient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ingredient.swift; sourceTree = "<group>"; };
+		3E4B467226C4F99100604B06 /* Ingredient+SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ingredient+SwiftUI.swift"; sourceTree = "<group>"; };
+		3E4B467526C504AB00604B06 /* NutritionFact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NutritionFact.swift; sourceTree = "<group>"; };
+		3E4B467726C5052700604B06 /* NutritionFact+Energy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NutritionFact+Energy.swift"; sourceTree = "<group>"; };
+		3E4B467926C5064000604B06 /* NutritionFact+Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NutritionFact+Decodable.swift"; sourceTree = "<group>"; };
+		3E4B467B26C506A800604B06 /* DisplayableMeasurement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayableMeasurement.swift; sourceTree = "<group>"; };
+		3E4B467D26C506D900604B06 /* UnitIcons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitIcons.swift; sourceTree = "<group>"; };
+		3E4B467F26C5073500604B06 /* Ingredient+NutritionFacts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ingredient+NutritionFacts.swift"; sourceTree = "<group>"; };
+		3E4B468126C7729B00604B06 /* SmoothieList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmoothieList.swift; sourceTree = "<group>"; };
+		3E4B468426C78BE800604B06 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		3E4B468626C78C5300604B06 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		3E4B468826C78E7E00604B06 /* Account.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Account.swift; sourceTree = "<group>"; };
+		3E4B468A26C799F700604B06 /* SmoothieRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmoothieRow.swift; sourceTree = "<group>"; };
+		3E4B468C26C79C9B00604B06 /* Smoothie+SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Smoothie+SwiftUI.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +71,7 @@
 		3E4881B926C4DA46007F6990 = {
 			isa = PBXGroup;
 			children = (
+				3E4881D326C4DEB2007F6990 /* iOS */,
 				3E4881C426C4DA46007F6990 /* Fruta */,
 				3E4881C326C4DA46007F6990 /* Products */,
 			);
@@ -51,8 +88,13 @@
 		3E4881C426C4DA46007F6990 /* Fruta */ = {
 			isa = PBXGroup;
 			children = (
+				3E4B468326C78BCF00604B06 /* Model */,
+				3E4B467426C5046800604B06 /* NutritionFacts */,
+				3E4B466F26C4F8C000604B06 /* Ingredients */,
+				3E4B466C26C4F71C00604B06 /* Recipe */,
+				3E4B466026C4F2D000604B06 /* Smoothie */,
+				3E4B465F26C4DFF600604B06 /* Navigation */,
 				3E4881C526C4DA46007F6990 /* FrutaApp.swift */,
-				3E4881C726C4DA46007F6990 /* ContentView.swift */,
 				3E4881C926C4DA48007F6990 /* Assets.xcassets */,
 				3E4881CB26C4DA48007F6990 /* Preview Content */,
 			);
@@ -65,6 +107,74 @@
 				3E4881CC26C4DA48007F6990 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3E4881D326C4DEB2007F6990 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				3E4B465D26C4DFD400604B06 /* AppTabNavigation.swift */,
+			);
+			path = iOS;
+			sourceTree = "<group>";
+		};
+		3E4B465F26C4DFF600604B06 /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+				3E4881C726C4DA46007F6990 /* ContentView.swift */,
+			);
+			path = Navigation;
+			sourceTree = "<group>";
+		};
+		3E4B466026C4F2D000604B06 /* Smoothie */ = {
+			isa = PBXGroup;
+			children = (
+				3E4B466426C4F33C00604B06 /* SmoothieMenu.swift */,
+				3E4B466626C4F37900604B06 /* Smoothie.swift */,
+				3E4B468126C7729B00604B06 /* SmoothieList.swift */,
+				3E4B468A26C799F700604B06 /* SmoothieRow.swift */,
+				3E4B468C26C79C9B00604B06 /* Smoothie+SwiftUI.swift */,
+			);
+			path = Smoothie;
+			sourceTree = "<group>";
+		};
+		3E4B466C26C4F71C00604B06 /* Recipe */ = {
+			isa = PBXGroup;
+			children = (
+				3E4B466D26C4F74F00604B06 /* MeasuredIngredient.swift */,
+			);
+			path = Recipe;
+			sourceTree = "<group>";
+		};
+		3E4B466F26C4F8C000604B06 /* Ingredients */ = {
+			isa = PBXGroup;
+			children = (
+				3E4B467026C4F8DC00604B06 /* Ingredient.swift */,
+				3E4B467226C4F99100604B06 /* Ingredient+SwiftUI.swift */,
+				3E4B467F26C5073500604B06 /* Ingredient+NutritionFacts.swift */,
+			);
+			path = Ingredients;
+			sourceTree = "<group>";
+		};
+		3E4B467426C5046800604B06 /* NutritionFacts */ = {
+			isa = PBXGroup;
+			children = (
+				3E4B467526C504AB00604B06 /* NutritionFact.swift */,
+				3E4B467726C5052700604B06 /* NutritionFact+Energy.swift */,
+				3E4B467926C5064000604B06 /* NutritionFact+Decodable.swift */,
+				3E4B467B26C506A800604B06 /* DisplayableMeasurement.swift */,
+				3E4B467D26C506D900604B06 /* UnitIcons.swift */,
+			);
+			path = NutritionFacts;
+			sourceTree = "<group>";
+		};
+		3E4B468326C78BCF00604B06 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3E4B468426C78BE800604B06 /* Model.swift */,
+				3E4B468626C78C5300604B06 /* Order.swift */,
+				3E4B468826C78E7E00604B06 /* Account.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,7 +248,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				3E4881C826C4DA46007F6990 /* ContentView.swift in Sources */,
+				3E4B467E26C506D900604B06 /* UnitIcons.swift in Sources */,
 				3E4881C626C4DA46007F6990 /* FrutaApp.swift in Sources */,
+				3E4B467326C4F99100604B06 /* Ingredient+SwiftUI.swift in Sources */,
+				3E4B467A26C5064000604B06 /* NutritionFact+Decodable.swift in Sources */,
+				3E4B468926C78E7E00604B06 /* Account.swift in Sources */,
+				3E4B468B26C799F700604B06 /* SmoothieRow.swift in Sources */,
+				3E4B468D26C79C9B00604B06 /* Smoothie+SwiftUI.swift in Sources */,
+				3E4B467126C4F8DC00604B06 /* Ingredient.swift in Sources */,
+				3E4B468726C78C5300604B06 /* Order.swift in Sources */,
+				3E4B466526C4F33C00604B06 /* SmoothieMenu.swift in Sources */,
+				3E4B468526C78BE800604B06 /* Model.swift in Sources */,
+				3E4B468026C5073500604B06 /* Ingredient+NutritionFacts.swift in Sources */,
+				3E4B466726C4F37900604B06 /* Smoothie.swift in Sources */,
+				3E4B468226C7729B00604B06 /* SmoothieList.swift in Sources */,
+				3E4B467C26C506A800604B06 /* DisplayableMeasurement.swift in Sources */,
+				3E4B467826C5052700604B06 /* NutritionFact+Energy.swift in Sources */,
+				3E4B466E26C4F74F00604B06 /* MeasuredIngredient.swift in Sources */,
+				3E4B467626C504AB00604B06 /* NutritionFact.swift in Sources */,
+				3E4B465E26C4DFD400604B06 /* AppTabNavigation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,7 +405,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -307,7 +435,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
